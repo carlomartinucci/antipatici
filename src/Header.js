@@ -10,8 +10,12 @@ type Props = {
 
 const Header = (props: Props) =>
   <header className={styles.container}>
-    Quanti siete?
+    <h2 className={styles.title}>
+      Quanti siete?
+    </h2>
+
     <input type='number' min='0' max='100' step='1' value={props.value} onChange={props.setValue} />
+
     <button onClick={props.handleButtonClick}>
       Conferma
     </button>
