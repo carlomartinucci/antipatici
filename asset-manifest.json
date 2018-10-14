@@ -1,13 +1,13 @@
 {
-  "main.css": "/antipatici/static/css/main.8adcd00d.chunk.css",
-  "main.js": "/antipatici/static/js/main.5e7bb4bc.chunk.js",
-  "main.js.map": "/antipatici/static/js/main.5e7bb4bc.chunk.js.map",
-  "static/js/1.1136cb58.chunk.js": "/antipatici/static/js/1.1136cb58.chunk.js",
-  "static/js/1.1136cb58.chunk.js.map": "/antipatici/static/js/1.1136cb58.chunk.js.map",
+  "main.css": "/antipatici/static/css/main.e77f9bbf.chunk.css",
+  "main.js": "/antipatici/static/js/main.efaf14c3.chunk.js",
+  "main.js.map": "/antipatici/static/js/main.efaf14c3.chunk.js.map",
+  "static/js/1.2edd762f.chunk.js": "/antipatici/static/js/1.2edd762f.chunk.js",
+  "static/js/1.2edd762f.chunk.js.map": "/antipatici/static/js/1.2edd762f.chunk.js.map",
   "runtime~main.js": "/antipatici/static/js/runtime~main.40da7bab.js",
   "runtime~main.js.map": "/antipatici/static/js/runtime~main.40da7bab.js.map",
-  "static/css/main.8adcd00d.chunk.css.map": "/antipatici/static/css/main.8adcd00d.chunk.css.map",
+  "static/css/main.e77f9bbf.chunk.css.map": "/antipatici/static/css/main.e77f9bbf.chunk.css.map",
   "index.html": "/antipatici/index.html",
-  "precache-manifest.2036242375d25ed8f24fd31e1266fe6a.js": "/antipatici/precache-manifest.2036242375d25ed8f24fd31e1266fe6a.js",
+  "precache-manifest.6274cb4346a89e8daa45298ba5225269.js": "/antipatici/precache-manifest.6274cb4346a89e8daa45298ba5225269.js",
   "service-worker.js": "/antipatici/service-worker.js"
 }
